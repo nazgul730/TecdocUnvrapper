@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TecDocDataStructureAnalizer", "TecDocDataStructureAnalizer\TecDocDataStructureAnalizer.csproj", "{975946E2-9DD3-44EA-963A-167475C9C391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionalLoader", "ReflectionalLoader\ReflectionalLoader.csproj", "{51AE6B1A-9C56-4BD1-BA4B-39EBAE3DAAAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TecDocDataSplitter", "TecDocDataSplitter\TecDocDataSplitter.csproj", "{A968B43B-E65F-467E-847B-510E44240489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{975946E2-9DD3-44EA-963A-167475C9C391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975946E2-9DD3-44EA-963A-167475C9C391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975946E2-9DD3-44EA-963A-167475C9C391}.Debug|x64.ActiveCfg = Debug|x64
+		{975946E2-9DD3-44EA-963A-167475C9C391}.Debug|x64.Build.0 = Debug|x64
+		{975946E2-9DD3-44EA-963A-167475C9C391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975946E2-9DD3-44EA-963A-167475C9C391}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975946E2-9DD3-44EA-963A-167475C9C391}.Release|x64.ActiveCfg = Release|x64
+		{975946E2-9DD3-44EA-963A-167475C9C391}.Release|x64.Build.0 = Release|x64
+		{51AE6B1A-9C56-4BD1-BA4B-39EBAE3DAAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51AE6B1A-9C56-4BD1-BA4B-39EBAE3DAAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51AE6B1A-9C56-4BD1-BA4B-39EBAE3DAAAB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{51AE6B1A-9C56-4BD1-BA4B-39EBAE3DAAAB}.Debug|x64.Build.0 = Debug|Any CPU
+		{51AE6B1A-9C56-4BD1-BA4B-39EBAE3DAAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51AE6B1A-9C56-4BD1-BA4B-39EBAE3DAAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51AE6B1A-9C56-4BD1-BA4B-39EBAE3DAAAB}.Release|x64.ActiveCfg = Release|Any CPU
+		{51AE6B1A-9C56-4BD1-BA4B-39EBAE3DAAAB}.Release|x64.Build.0 = Release|Any CPU
+		{A968B43B-E65F-467E-847B-510E44240489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A968B43B-E65F-467E-847B-510E44240489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A968B43B-E65F-467E-847B-510E44240489}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A968B43B-E65F-467E-847B-510E44240489}.Debug|x64.Build.0 = Debug|Any CPU
+		{A968B43B-E65F-467E-847B-510E44240489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A968B43B-E65F-467E-847B-510E44240489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A968B43B-E65F-467E-847B-510E44240489}.Release|x64.ActiveCfg = Release|Any CPU
+		{A968B43B-E65F-467E-847B-510E44240489}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81463D2E-DC79-4902-B2AE-C5F39828B765}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Vitia\source\repos\TecDocProcessor\ReflectionalLoader\bin\Debug\ReflectionalLoader.exe.config
+C:\Users\Vitia\source\repos\TecDocProcessor\ReflectionalLoader\bin\Debug\ReflectionalLoader.exe
+C:\Users\Vitia\source\repos\TecDocProcessor\ReflectionalLoader\bin\Debug\ReflectionalLoader.pdb
+C:\Users\Vitia\source\repos\TecDocProcessor\ReflectionalLoader\obj\Debug\ReflectionalLoader.csprojAssemblyReference.cache
+C:\Users\Vitia\source\repos\TecDocProcessor\ReflectionalLoader\obj\Debug\ReflectionalLoader.csproj.CoreCompileInputs.cache
+C:\Users\Vitia\source\repos\TecDocProcessor\ReflectionalLoader\obj\Debug\ReflectionalLoader.exe
+C:\Users\Vitia\source\repos\TecDocProcessor\ReflectionalLoader\obj\Debug\ReflectionalLoader.pdb
